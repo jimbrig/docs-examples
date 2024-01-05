@@ -1,7 +1,8 @@
 repo_name: jimbrig/docs-examples
 report_id: 0da32ce531cd724bba81871b3fd805a1
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:31:54+00:00'
+timestamp: '2024-01-05T08:27:47+00:00'
 requested_by: modular-magician
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jimbrig/docs-examples
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -25,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jimbrig/docs-examples/blob/master/.changelog/3014.txt
   detection_source: ".changelog/3014.txt"
   last_updated_by: The Magician
   last_updated_on: 2020-01-31 20:57:22.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/docs-examples
   detection_source: Repo Metadata
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/jimbrig/docs-examples/blob/master/router_peer_router_appliance/main.tf
   detection_source: router_peer_router_appliance/main.tf
   last_updated_by: The Magician
   last_updated_on: 2023-01-03 17:04:53.000000000 Z
@@ -60,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/jimbrig/docs-examples/blob/master/router_peer_router_appliance/main.tf
   detection_source: router_peer_router_appliance/main.tf
   last_updated_by: The Magician
   last_updated_on: 2023-01-03 17:04:53.000000000 Z
@@ -71,6 +77,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jimbrig/docs-examples/blob/master/.changelog/3014.txt
   detection_source: ".changelog/3014.txt"
   last_updated_by: The Magician
   last_updated_on: 2020-01-31 20:57:22.000000000 Z
